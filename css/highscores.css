@@ -2,6 +2,11 @@ body {
     color: #fff;
 }
 
+img {
+    width: 25%;
+    height: 25%; 
+}
+
 #highScoresList {
     list-style: none;
     margin-bottom: 4rem;
